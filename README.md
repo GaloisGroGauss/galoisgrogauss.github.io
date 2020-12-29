@@ -1,2 +1,2 @@
 # galoisgrogauss.github.io
-本人github主页
+galoisgrogauss的github主页
